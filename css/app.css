@@ -3052,6 +3052,9 @@ main >.inner {
   white-space: nowrap;
 }
 .contents .toc-child {
+  display: block;
+}
+.contents .toc-number {
   display: none;
 }
 .contents .active>.toc-child {
